@@ -26,3 +26,6 @@ The following Jupyter notebooks are provided for different stages of the pipelin
 ## Dataset
 The dataset used for this thesis can be downloaded from:  
 [https://clear-benchmark.github.io/](https://clear-benchmark.github.io/)
+
+- **Training set**: [clear100-train-image-only.zip](https://huggingface.co/datasets/elvishelvis6/CLEAR-Continual_Learning_Benchmark/resolve/main/clear100-train-image-only.zip)
+- **Test set**: [clear100-test.zip](https://huggingface.co/datasets/elvishelvis6/CLEAR-Continual_Learning_Benchmark/resolve/main/clear100-test.zip)
