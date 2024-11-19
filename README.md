@@ -19,7 +19,7 @@ To set up the virtual environment:
 
 ## File descriptions
 This repository includes the following Jupyter notebooks, which correspond to different stages of the pipeline:
-- **`unzip_clear.ipynb`** 
+- **`unzip_clear.ipynb`**   
   Unzip the dataset.
 
 - **`feature_extraction.ipynb`**  
