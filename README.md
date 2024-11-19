@@ -31,8 +31,8 @@ This repository includes the following Jupyter notebooks, which correspond to di
 - **`no RP.ipynb`**  
   Run streaming models without Random Projection after feature extraction.
 
-Additionally, Python scripts in the repository provide functions called by the Jupyter notebooks.
-It is necessary to run **`feature_extraction.ipynb`** before running **`run_models.ipynb`** and **`no RP.ipynb`**.
+Additionally, Python scripts in the repository provide utility functions called by the Jupyter notebooks. It is necessary to run **`feature_extraction.ipynb`** before running **`run_models.ipynb`** and **`no RP.ipynb`**.
+
 ---
 
 ## Pre-trained models
